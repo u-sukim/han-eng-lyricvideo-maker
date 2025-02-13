@@ -65,7 +65,7 @@ youtubesearchpython==1.2.8
 Pillow==9.4.0
 moviepy==1.0.3
 numpy==1.24.2
-genieapi==1.0.0  # 외부 패키지로 포함
+genieapi==1.0.0
 ```
 
 ### 4. 환경 변수 설정
