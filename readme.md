@@ -50,24 +50,6 @@ venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-#### Sample `requirements.txt`
-
-```text
-PyQt6==6.5.1
-requests==2.28.1
-beautifulsoup4==4.11.1
-musicbrainzngs==0.7.1
-openai==0.27.0
-python-dotenv==1.0.0
-pydub==0.25.1
-yt-dlp==2023.3.1
-youtubesearchpython==1.2.8
-Pillow==9.4.0
-moviepy==1.0.3
-numpy==1.24.2
-genieapi==1.0.0
-```
-
 ### 4. 환경 변수 설정
 
 프로젝트 루트에 `.env` 파일을 생성하고 OpenAI API 키를 추가합니다.
